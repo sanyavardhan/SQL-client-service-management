@@ -1,0 +1,6 @@
+"interaction_id","client_id","interaction_type","interaction_date","interaction_summary","follow_up_date","created_at","updated_at"
+16,1,"Email","2024-08-01","Initial contact with John Doe.","2024-08-03","2024-08-22 22:01:45.261515","2024-08-22 22:01:45.261515"
+17,2,"Call","2024-08-02","Discussed project details with Jane Smith.","2024-08-05","2024-08-22 22:01:45.261515","2024-08-22 22:01:45.261515"
+18,3,"Meeting","2024-08-03","Finalized contract with Acme Corp.","2024-08-07","2024-08-22 22:01:45.261515","2024-08-22 22:01:45.261515"
+19,4,"Email","2024-08-04","Provided project update to Tech Solutions.","2024-08-08","2024-08-22 22:01:45.261515","2024-08-22 22:01:45.261515"
+20,5,"Call","2024-08-05","Reviewed service feedback from Global Enterprises.","2024-08-10","2024-08-22 22:01:45.261515","2024-08-22 22:01:45.261515"

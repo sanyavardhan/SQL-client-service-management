@@ -1,0 +1,6 @@
+"preference_id","client_id","preference_type","preference_description","created_at","updated_at"
+1,1,"Communication","Prefers email communication for updates.","2024-08-22 22:06:40.888981","2024-08-22 22:06:40.888981"
+2,2,"Payment","Payment via bank transfer preferred.","2024-08-22 22:06:40.888981","2024-08-22 22:06:40.888981"
+3,3,"Service","Requires detailed documentation for all services.","2024-08-22 22:06:40.888981","2024-08-22 22:06:40.888981"
+4,4,"Delivery","Needs prompt service delivery within deadlines.","2024-08-22 22:06:40.888981","2024-08-22 22:06:40.888981"
+5,5,"Feedback","Prefers bi-weekly feedback reports.","2024-08-22 22:06:40.888981","2024-08-22 22:06:40.888981"
